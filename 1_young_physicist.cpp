@@ -1,10 +1,17 @@
 //https://codeforces.com/contest/69/problem/A
 
 #include <iostream>
+//#include <bits/stdc++>
+
 using namespace std;
 
 int main()
 {
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+    #endif
+    
     int n,resi=0,resk=0,resj=0;
     cin>>n;
     for(int x=0;x<n;x++)
