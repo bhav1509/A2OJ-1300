@@ -3,6 +3,8 @@
 
 //https://codeforces.com/contest/69/problem/A
 
+
+
 #include <iostream>
 using namespace std;
 
