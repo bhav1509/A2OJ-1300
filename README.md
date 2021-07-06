@@ -4,6 +4,8 @@
 //https://codeforces.com/contest/69/problem/A
 
 
+#TEMPLATE:
+
 
 #include <iostream>
 using namespace std;
