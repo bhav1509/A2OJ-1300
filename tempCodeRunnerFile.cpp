@@ -1,4 +1,5 @@
-rr[big]<=arr[i])
-        {
-            big=i;
-        }
+j;i++)
+    // {
+    //     cout<<arr[i]<<" ";
+    // }
+    // cout<<"\n";
