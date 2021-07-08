@@ -1,4 +1,4 @@
-
-        cout<<d2<<endl;
-        cout<<d3<<endl;
-        cout<<d4<<endl;
+rr[big]<=arr[i])
+        {
+            big=i;
+        }
